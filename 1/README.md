@@ -2,5 +2,7 @@
 
 ---
 Выводом будет 
+
 Hello, DevOps! -> вывод от tee
+
 Hello, DevOps! -> вывод содержимого файла hello.txt
